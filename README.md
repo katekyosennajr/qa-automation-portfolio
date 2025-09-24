@@ -4,7 +4,7 @@ Project ini saya buat sebagai portofolio untuk menunjukkan kemampuan QA Automati
   
 Skenarionya saya ambil dari website demo [SauceDemo](https://www.saucedemo.com/) yang biasa dipakai untuk belajar testing.
 
-## ✨ Apa yang ada di project ini
+## ✨ Apa yang ada di project portofolio ini
 - Struktur project dengan **Page Object Model (POM)**  
 - Test untuk:
   - Login (valid & invalid data login)
@@ -13,7 +13,7 @@ Skenarionya saya ambil dari website demo [SauceDemo](https://www.saucedemo.com/)
 - Report otomatis dari Playwright
 - CI/CD sederhana menggunakan **GitHub Actions**
 
-## 🛠️ Teknologi
+## 🛠️ Framework
 - [Node.js](https://nodejs.org/)
 - [Playwright](https://playwright.dev/)
 - GitHub Actions (CI/CD)
